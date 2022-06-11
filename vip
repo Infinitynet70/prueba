@@ -5,7 +5,7 @@
   "Sms": "=1",
   "EmailFeedback": "",
   "UrlContato": "https://wa.me/message/5HN6KBEBZ5FGM1",
-  "UrlTermos": "https://",
+  "UrlTermos": "https://raw.githubusercontent.com/Infinitynet70/aplicativos/main/conecta4g/infinitynet/Termos%20e%20condi%C3%A7%C3%B5es",
   "CheckUser": "http://:5454/checkUser",
   "UdpPort": "7300",
   "Servers": [
