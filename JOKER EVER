@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.7",
+  "Version": "1.0.8",
   "ReleaseNotes": "PARA LA CHIVIRICA COM AMOR LA ARDILLA 🤣🤣🤣",
   "UrlUpdate": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/JOKER%20EVER",
   "Sms": "joker",
@@ -51,16 +51,6 @@
       "ProxyIP": "104.18.7.80",
       "ProxyPort": "80",
       "Info": "Proxy"
-    },
-    {
-    "Name": "🟣VIVO 4☘️",
-      "FLAG": "vivo",
-      "Payload": "GET sni://planos.vivo.com.br HTTP/1.1[crlf]Host: [app_host][crlf]X-Forward-Host: [app_host][crlf]Connection: upgrade[crlf]upgrade: websocket[crlf][crlf]",
-      "SNI": "planos.vivo.com.br",
-      "TlsIP": "104.18.7.80",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
     },
     {
     "Name": "🔵TIM ☘️1 ",
