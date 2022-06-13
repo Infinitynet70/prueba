@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.9",
+  "Version": "1.0.10",
   "ReleaseNotes": "☘️JOKER☘️",
   "UrlUpdate": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/JOKER%20EVER",
   "Sms": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/Sms",
@@ -72,16 +72,6 @@
       "ProxyPort": "",
       "Info": "Tlsws"
     },
-     {
-      "Name": "🔵TIM 3☘️",
-      "FLAG": "tim",
-      "Payload": "GET wss://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "static.r4you.co",
-      "TlsIP": "104.26.5.175",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-        },
  {
      "Name": "🔴CLARO 1☘️",
       "FLAG": "Claro",
