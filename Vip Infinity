@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.0.1",
+  "Version": "1.0.0.4",
   "ReleaseNotes": "wilson",
   "UrlUpdate": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/Vip%20Infinity",
   "Sms": "=1",
@@ -22,16 +22,6 @@
       },
   ],
  "Networks": [
-{
-      "Name": "🟣VIVO 1",
-      "FLAG": "vivo",
-      "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
-      "SNI": "[app_host]",
-      "TlsIP": "104.18.7.80",
-      "ProxyIP": "",
-      "ProxyPort": "",
-     "Info": "Tlsws"
-    },
     {
       "Name": "🟣VIVO 2",
       "FLAG": "vivo",
