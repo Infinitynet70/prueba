@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.21",
-  "ReleaseNotes": "manutençao de 20 minutos",
+  "Version": "1.0.22",
+  "ReleaseNotes": "manutençao ",
   "UrlUpdate": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/JOKER%20EVER",
   "Sms": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/Sms",
   "EmailFeedback": "",
@@ -82,5 +82,35 @@
        "ProxyPort": "443", 
        "Info": "Tlsws" 
      }, 
+    { 
+       "Name": "🔴CLARO 1🚀", 
+       "FLAG": "claro", 
+       "Payload": "GET wss://api.new.livestream.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
+       "SNI": "api.new.livestream.com", 
+       "TlsIP": "api.new.livestream.com", 
+       "ProxyIP": "", 
+       "ProxyPort": "", 
+       "Info": "Tlsws" 
+        }, 
+     { 
+       "Name": "🔴CLARO 2", 
+       "FLAG": "claro", 
+       "Payload": "GET wss://api.new.livestream.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
+       "SNI": "api.new.livestream.com", 
+       "TlsIP": "api.new.livestream.com", 
+       "ProxyIP": "", 
+       "ProxyPort": "", 
+       "Info": "Tlsws" 
+        }, 
+     { 
+       "Name": "🔴CLARO 3", 
+       "FLAG": "claro", 
+       "Payload": "GET wss://icanhazip.com HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]", 
+       "SNI": "icanhazip.com", 
+       "TlsIP": "icanhazip.com", 
+       "ProxyIP": "", 
+       "ProxyPort": "", 
+       "Info": "Tlsws" 
+    }, 
    ] 
  }
