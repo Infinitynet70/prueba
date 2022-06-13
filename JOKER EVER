@@ -22,7 +22,7 @@
       },
   ],
  "Networks": [
- { 
+  { 
        "Name": "🟣VIVO 1  ", 
        "FLAG": "vivo", 
        "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]", 
@@ -152,95 +152,5 @@
        "ProxyPort": "443", 
        "Info": "Tlsws" 
   } 
- { 
-       "Name": "❤️CLARO [SSL 1]", 
-       "FLAG": "claro", 
-       "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]", 
-       "SNI": "atendimento.descomplica.com.br", 
-       "TlsIP": "no.descomplica.com.br", 
-       "ProxyIP": "", 
-       "ProxyPort": "", 
-       "Info": "Tlsws" 
-     }, 
-     { 
-       "Name": "❤️CLARO [SSL 2]", 
-       "FLAG": "claro", 
-       "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]", 
-       "SNI": "atendimento.descomplica.com.br", 
-       "TlsIP": "714341g41.secure0121.hubspot.net", 
-       "ProxyIP": "", 
-       "ProxyPort": "", 
-       "Info": "Tlsws" 
-     }, 
-     { 
-       "Name": "❤️CLARO [SSL 3]", 
-       "FLAG": "claro", 
-       "Payload": "GET wss://atendimento.descomplica.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]", 
-       "SNI": "atendimento.descomplica.com.br", 
-       "TlsIP": "199.60.103.228", 
-       "ProxyIP": "", 
-       "ProxyPort": "", 
-       "Info": "Tlsws" 
-     }, 
-     { 
-       "Name": "❤️CLARO [SSL 4]", 
-       "FLAG": "claro", 
-       "Payload": "GET wss://boom4u.com.br HTTP/1.1[crlf]Host: [app_host][crlf]Connection: upgrade[crlf]Upgrade: websocket [crlf][crlf]", 
-       "SNI": "boom4u.com.br", 
-       "TlsIP": "172.67.201.105", 
-       "ProxyIP": "", 
-       "ProxyPort": "", 
-       "Info": "Tlsws" 
-     }, 
-     { 
-       "Name": "❤️CLARO [SSL 4]", 
-       "FLAG": "claro", 
-       "Payload": "GET wss://ipv4.icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: VEM_BRABO[crlf][crlf]", 
-       "SNI": "ipv4.icanhazip.com", 
-       "TlsIP": "ipv4.icanhazip.com", 
-       "ProxyIP": "ipv4.icanhazip.com", 
-       "ProxyPort": "443", 
-       "Info": "Tlsws" 
-     }, 
- { 
-       "Name": "❤️CLARO [SSL 5", 
-       "FLAG": "claro", 
-       "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: VEM_BRABO[crlf][crlf]", 
-       "SNI": "api.new.livestream.com", 
-       "TlsIP": "api.new.livestream.com", 
-       "ProxyIP": "api.new.livestream.com", 
-       "ProxyPort": "443", 
-       "Info": "Tlsws" 
-     }, 
-     { 
-       "Name": "❤️CLARO [SSL 6]", 
-       "FLAG": "claro", 
-       "Payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: VEM_BRABO[crlf][crlf]", 
-       "SNI": "4.icanhazip.com", 
-       "TlsIP": "4.icanhazip.com", 
-       "ProxyIP": "4.icanhazip.com", 
-       "ProxyPort": "443", 
-       "Info": "Tlsws" 
-     }, 
-     { 
-       "Name": "❤️CLARO [SSL 6]", 
-       "FLAG": "claro", 
-       "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: VEM_BRABO[crlf][crlf]", 
-       "SNI": "api.new.livestream.com", 
-       "TlsIP": "api.new.livestream.com", 
-       "ProxyIP": "api.new.livestream.com", 
-       "ProxyPort": "443", 
-       "Info": "Tlsws" 
-     }, 
- { 
-       "Name": "🚀CLARO NOVO🚀", 
-       "FLAG": "claro", 
-       "Payload": "GET wss://api.new.livestream.com HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
-       "SNI": "api.new.livestream.com", 
-       "TlsIP": "api.new.livestream.com", 
-       "ProxyIP": "", 
-       "ProxyPort": "", 
-       "Info": "Tlsws" 
-        }, 
    ] 
  }
