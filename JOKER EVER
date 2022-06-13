@@ -1,5 +1,5 @@
 {
-  "Version": "1.0.20",
+  "Version": "1.0.21",
   "ReleaseNotes": "manutençao de 20 minutos",
   "UrlUpdate": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/JOKER%20EVER",
   "Sms": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/Sms",
@@ -48,6 +48,36 @@
        "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]", 
        "SNI": "money-staging.infinitepay.io", 
        "TlsIP": "104.18.7.80", 
+       "ProxyIP": "", 
+       "ProxyPort": "443", 
+       "Info": "Tlsws" 
+     }, 
+{ 
+     "Name": "🔵TIM 1 ", 
+       "FLAG": "tim", 
+       "Payload": "GET wss://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
+       "SNI": "static.r4you.co", 
+       "TlsIP": "104.26.5.175", 
+       "ProxyIP": "", 
+       "ProxyPort": "", 
+       "Info": "Tlsws" 
+     }, 
+        { 
+       "Name": "🔵TIM 2🚀", 
+       "FLAG": "tim", 
+       "Payload": "GET ws://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
+       "SNI": "static.r4you.co", 
+       "TlsIP": "104.26.5.175", 
+       "ProxyIP": "", 
+       "ProxyPort": "", 
+       "Info": "Tlsws" 
+ }, 
+ { 
+  "Name": "🔵TIM 3🚀", 
+       "FLAG": "tim", 
+       "Payload": "GET wss://bobcontents.bennuapp.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]", 
+       "SNI": "bobcontents.bennuapp.com.br", 
+       "TlsIP": "104.18.239.79", 
        "ProxyIP": "", 
        "ProxyPort": "443", 
        "Info": "Tlsws" 
