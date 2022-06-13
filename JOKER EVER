@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.33",
-  "ReleaseNotes": "operadoras en manutenção🛠️⚙️",
+  "Version": "1.0.35",
+  "ReleaseNotes": "manutenção de 30 minutos⚙️🛠️",
   "UrlUpdate": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/JOKER%20EVER",
   "Sms": "h1",
   "EmailFeedback": "",
@@ -22,36 +22,6 @@
       },
   ],
  "Networks": [
- { 
-       "Name": "🟣VIVO 1  ", 
-       "FLAG": "vivo", 
-       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]", 
-       "SNI": "", 
-       "TlsIP": "", 
-       "ProxyIP": "104.18.7.80", 
-       "ProxyPort": "80", 
-       "Info": "Proxy" 
-     }, 
-     { 
-       "Name": "🟣VIVO 2 ", 
-       "FLAG": "vivo", 
-       "Payload": "GET / HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]", 
-       "SNI": "", 
-       "TlsIP": "", 
-       "ProxyIP": "vigia.vivo.com.br", 
-       "ProxyPort": "80", 
-       "Info": "Proxy" 
-     }, 
-     { 
-       "Name": "🟣VIVO 3🚀", 
-       "FLAG": "vivo", 
-       "Payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: Websocket[crlf]Connection: Keep-Alive[crlf]Connection: Keep-Alive[crlf][crlf]", 
-       "SNI": "money-staging.infinitepay.io", 
-       "TlsIP": "104.18.7.80", 
-       "ProxyIP": "", 
-       "ProxyPort": "443", 
-       "Info": "Tlsws" 
-     }, 
 {
       "Name": "🟡VIVO-1",
       "FLAG": "vivo",
