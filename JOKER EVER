@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.22",
-  "ReleaseNotes": "manutençao ",
+  "Version": "1.1.24",
+  "ReleaseNotes": "🚀🚀🚀✈️✈️",
   "UrlUpdate": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/JOKER%20EVER",
   "Sms": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/Sms",
   "EmailFeedback": "",
@@ -112,5 +112,35 @@
        "ProxyPort": "", 
        "Info": "Tlsws" 
     }, 
+{ 
+       "Name": " 🟡OI 1", 
+       "FLAG": "oi", 
+       "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
+       "SNI": "www.hbogo.com.br", 
+       "TlsIP": "www.hbogo.com.br", 
+       "ProxyIP": "", 
+       "ProxyPort": "", 
+       "Info": "Tlsws" 
+     }, 
+     { 
+       "Name": "🟡OI 2 ", 
+       "FLAG": "oi", 
+       "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
+       "SNI": "www.hbogo.com.br", 
+       "TlsIP": "104.16.55.91", 
+       "ProxyIP": "", 
+       "ProxyPort": "", 
+       "Info": "Tlsws" 
+     }, 
+ { 
+       "Name": "🟡OI 3🚀", 
+       "FLAG": "oi", 
+       "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
+       "SNI": "www.hbogo.com.br", 
+       "TlsIP": "www.hbogo.com.br", 
+       "ProxyIP": "", 
+       "ProxyPort": "443", 
+       "Info": "Tlsws" 
+ },
    ] 
  }
