@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.11",
-  "ReleaseNotes": "☘️JOKER☘️",
+  "Version": "1.0.13",
+  "ReleaseNotes": "☘️optimizar todo claro en teste☘️",
   "UrlUpdate": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/JOKER%20EVER",
   "Sms": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/Sms",
   "EmailFeedback": "",
@@ -202,8 +202,18 @@
        "ProxyPort": "443", 
        "Info": "Tlsws" 
      }, 
+ { 
+       "Name": "❤️CLARO [SSL 5", 
+       "FLAG": "claro", 
+       "Payload": "GET wss://api.new.livestream.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: VEM_BRABO[crlf][crlf]", 
+       "SNI": "api.new.livestream.com", 
+       "TlsIP": "api.new.livestream.com", 
+       "ProxyIP": "api.new.livestream.com", 
+       "ProxyPort": "443", 
+       "Info": "Tlsws" 
+     }, 
      { 
-       "Name": "❤️CLARO [SSL 5]", 
+       "Name": "❤️CLARO [SSL 6]", 
        "FLAG": "claro", 
        "Payload": "GET wss://4.icanhazip.com/ HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: VEM_BRABO[crlf][crlf]", 
        "SNI": "4.icanhazip.com", 
