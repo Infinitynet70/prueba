@@ -1,6 +1,6 @@
 {
-  "Version": "1.0.15",
-  "ReleaseNotes": "operadoras optimizada🚀🚀",
+  "Version": "1.0.16",
+  "ReleaseNotes": "operadoras optimizada🚀🚀🚀🚀",
   "UrlUpdate": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/JOKER%20EVER",
   "Sms": "https://raw.githubusercontent.com/Infinitynet70/prueba/main/Sms",
   "EmailFeedback": "",
@@ -62,18 +62,8 @@
        "ProxyPort": "", 
        "Info": "Tlsws" 
      }, 
-         { 
-    "Name": "🔵TIM 2", 
-    "FLAG": "tim", 
-    "Payload": "GET ws://static.r4you.co HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]", 
-    "SNI": "static.r4you.co", 
-    "TlsIP": "104.26.5.175", 
-    "ProxyIP": "", 
-    "ProxyPort": "443", 
-    "Info": "Tlsws" 
-   }, 
         { 
-       "Name": "🔵TIM 3🚀", 
+       "Name": "🔵TIM 2🚀", 
        "FLAG": "tim", 
        "Payload": "GET ws://static.r4you.co HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n", 
        "SNI": "static.r4you.co", 
@@ -83,7 +73,7 @@
        "Info": "Tlsws" 
  }, 
  { 
-  "Name": "🔵TIM 4🚀", 
+  "Name": "🔵TIM 3🚀", 
        "FLAG": "tim", 
        "Payload": "GET wss://bobcontents.bennuapp.com.br  HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]", 
        "SNI": "bobcontents.bennuapp.com.br", 
