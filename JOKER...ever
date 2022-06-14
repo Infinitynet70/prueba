@@ -122,16 +122,6 @@
       "ProxyPort": "",
       "Info": "Tlsws"
    },
-{
-      "Name": " 🟡OI 1",
-      "FLAG": "oi",
-      "Payload": "GET ws://www.hbogo.com.br HTTP/1.1\nHost: [app_host]\nUpgrade: ws\n\n",
-      "SNI": "www.hbogo.com.br",
-      "TlsIP": "www.hbogo.com.br",
-      "ProxyIP": "",
-      "ProxyPort": "",
-      "Info": "Tlsws"
-    },
     {
       "Name": "🟡OI 2 ",
       "FLAG": "oi",
